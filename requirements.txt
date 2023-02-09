@@ -1,0 +1,6 @@
+streamlit
+PIL
+itertools
+time
+openai
+os
